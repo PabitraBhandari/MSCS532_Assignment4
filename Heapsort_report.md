@@ -59,6 +59,38 @@ Sorted array:   [1, 3, 5, 7, 8, 9, 10, 12, 14, 16, 19]
 - Running time of Heapsort is compared with Quicksort and Mergesort in this [file](./comaparison.py).
 - This is the sample output of the program:
 
+# Let's create the content in markdown format and save it as a .md file.
+
+readme_content = """
+# Sorting Algorithm Performance Comparison
+
+This README presents the performance comparison of three sorting algorithms: **Heapsort**, **Quicksort**, and **Merge Sort**. The algorithms are tested on datasets of varying input sizes (1000, 5000, and 10,000) and different input conditions (random, sorted, and reverse sorted). The execution times are presented in seconds.
+
+### Input Size: 1000
+
+| Input Condition | Heapsort (s) | Quicksort (s) | Merge Sort (s) |
+|-----------------|--------------|---------------|----------------|
+| Random          | 0.001804     | 0.001079      | 0.001343       |
+| Sorted          | 0.001917     | 0.000800      | 0.000970       |
+| Reverse_sorted  | 0.001669     | 0.000805      | 0.000947       |
+
+### Input Size: 5000
+
+| Input Condition | Heapsort (s) | Quicksort (s) | Merge Sort (s) |
+|-----------------|--------------|---------------|----------------|
+| Random          | 0.011305     | 0.005777      | 0.007924       |
+| Sorted          | 0.014908     | 0.005648      | 0.005614       |
+| Reverse_sorted  | 0.014476     | 0.005415      | 0.005687       |
+
+### Input Size: 10000
+
+| Input Condition | Heapsort (s) | Quicksort (s) | Merge Sort (s) |
+|-----------------|--------------|---------------|----------------|
+| Random          | 0.023728     | 0.012266      | 0.022326       |
+| Sorted          | 0.030165     | 0.009864      | 0.011096       |
+| Reverse_sorted  | 0.021434     | 0.009816      | 0.016510       |
+
+
 **below is the discussion of Observed Results nad Theoretical Analysis:**
 
 ### 1. General Trends
