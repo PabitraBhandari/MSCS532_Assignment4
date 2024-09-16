@@ -22,6 +22,8 @@ In Part 2, a priority queue was implemented using a max-heap to manage tasks bas
 Tasks with the highest priority are extracted first, making the max-heap suitable for scheduling algorithms. The time complexity analysis shows that the priority queue implementation is efficient and scalable.
 
 ---
+#### Requirements 
+- Make sure you have python 3.X installed in your system.
 
 ### Instructions to run code:
 #### Running on windows 
