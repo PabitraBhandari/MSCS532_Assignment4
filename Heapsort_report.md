@@ -1,6 +1,6 @@
 # Heapsort Implementation and Analysis
 ## Implementation
-Heapsort algorithm using python is implement in this [file](./heapsort.py). In clear and efficient way, the correct steps has been implemented for building a max-heap, extracting the maximum element, and maintaining the heap property.
+Heapsort algorithm using python is implement in this [file](./heapsort_algorithm.py). In clear and efficient way, the correct steps has been implemented for building a max-heap, extracting the maximum element, and maintaining the heap property.
 
 ## Analysis
 The implemented heapsort algorithm has been analyzed below, providing rigorous analysis of the time complexity of Heapsort in the worst, average, and best cases. It is discussed with the space complexity and any additional overheads.
