@@ -56,12 +56,11 @@ Sorted array:   [1, 3, 5, 7, 8, 9, 10, 12, 14, 16, 19]
 ---
 
 ## Comparison of running time of Heapsort with QuickSort and MergeSort
-- Running time of Heapsort is compared with Quicksort and Mergesort in this [file](./comaparison.py).
+- Running time of Heapsort is compared with Quicksort and Mergesort in this [file](./comparison.py).
 - This is the sample output of the program:
 
 # Let's create the content in markdown format and save it as a .md file.
 
-readme_content = """
 # Sorting Algorithm Performance Comparison
 
 This README presents the performance comparison of three sorting algorithms: **Heapsort**, **Quicksort**, and **Merge Sort**. The algorithms are tested on datasets of varying input sizes (1000, 5000, and 10,000) and different input conditions (random, sorted, and reverse sorted). The execution times are presented in seconds.
